@@ -219,6 +219,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scena\NewBehaviourScript.cs" />
     <Compile Include="Assets\Skrypty\GraczController.cs" />
     <Compile Include="Assets\Skrypty\GraKontroler.cs" />
     <Compile Include="Assets\Skrypty\Losowyobrot.cs" />
